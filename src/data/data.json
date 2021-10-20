@@ -1,0 +1,38 @@
+{
+  "Navigation": {
+    "logo": "img/mtn_logo.svg"
+  },
+
+  "Services": [
+    {
+      "id": "1",
+      "image": "img/mtn_logo.svg",
+      "title": "Mobile internet",
+      "actiontext": "Start here"
+    },
+    {
+      "id": "2",
+      "image": "img/mtn_logo.svg",
+      "title": "Home internet",
+      "actiontext": "Start here"
+    },
+    {
+      "id": "3",
+      "image": "img/mtn_logo.svg",
+      "title": "Get a device",
+      "actiontext": "Start here"
+    },
+    {
+      "id": "4",
+      "image": "img/mtn_logo.svg",
+      "title": "Add a phone-line",
+      "actiontext": "Start here"
+    },
+    {
+      "id": "5",
+      "image": "img/mtn_logo.svg",
+      "title": "Upgrade",
+      "actiontext": "Start here"
+    }
+  ]
+}
