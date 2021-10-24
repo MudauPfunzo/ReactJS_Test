@@ -191,3 +191,137 @@ label {
   border: thistle;
   border-bottom: 20px yellow;
 }
+.deal-card {
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #e8e8e8;
+  border-radius: 8px;
+  box-shadow: 0 4px 0 -1px #ffc000, 0 2px 4px 0 rgb(0 0 0 / 8%);
+  color: #202020;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+  margin-top: 40px;
+  margin-right: 10px;
+  min-height: 200px;
+  height: 200px;
+  padding: 0 42px 102px;
+  position: relative;
+  transition: color 0.2s ease-out;
+  width: 100%;
+}
+.deal-card.active {
+  background-color: black;
+}
+.react-multi-carousel-item {
+  padding: 10px;
+}
+.device-image {
+  margin-top: 40px;
+  max-width: 224px;
+  min-height: 90px;
+  text-align: center;
+  transition: margin 0.2s ease-in-out;
+}
+.manufacturer {
+  color: #202020;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 8px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: color 0.2s ease-out;
+}
+.device-image img {
+  border-radius: 8px;
+  max-height: 202px;
+  max-width: 100%;
+}
+.card {
+  margin: 20;
+}
+.card-body.highlighted {
+  background: linear-gradient(
+    180deg,
+    rgba(122, 120, 120, 1) 0%,
+    rgba(14, 14, 14, 1) 98%,
+    rgba(255, 239, 2, 1) 10%
+  );
+  height: 300px;
+  width: 200px;
+  /*position: absolute;*/
+  margin-top: -40;
+  border-radius: 4px;
+  padding: 40;
+  border: thistle;
+  border-bottom: 20px yellow;
+}
+.deal-card {
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #e8e8e8;
+  border-radius: 8px;
+  /*box-shadow: 0 4px 0 -1px #ffc000, 0 2px 4px 0 rgb(0 0 0 / 8%);*/
+  color: #202020;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+  margin-top: 40px;
+  margin-right: 10px;
+  min-height: 200px;
+  height: 200px;
+  padding: 0 42px 102px;
+  position: relative;
+  transition: color 0.2s ease-out;
+  width: 100%;
+}
+.deal-card.active {
+  background-color: black;
+}
+.react-multi-carousel-item {
+  padding: 10px;
+}
+.device-image {
+  margin-top: 40px;
+  max-width: 224px;
+  min-height: 90px;
+  text-align: center;
+  transition: margin 0.2s ease-in-out;
+}
+.manufacturer {
+  color: #202020;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 8px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: color 0.2s ease-out;
+}
+.device-image img {
+  border-radius: 8px;
+  max-height: 202px;
+  max-width: 100%;
+}
+.card {
+  margin: 20;
+}
+.card-body.highlighted {
+  background: linear-gradient(
+    180deg,
+    rgba(122, 120, 120, 1) 0%,
+    rgba(14, 14, 14, 1) 98%,
+    rgba(255, 239, 2, 1) 10%
+  );
+  height: 300px;
+  width: 200px;
+  /*position: absolute;*/
+  margin-top: -40;
+  border-radius: 4px;
+  padding: 40;
+  border: thistle;
+  border-bottom: 20px yellow;
+}
